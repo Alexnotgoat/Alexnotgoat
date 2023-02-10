@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[tableConvert.com_au2usd.md](https://github.com/Alexnotgoat/Alexnotgoat/files/10702728/tableConvert.com_au2usd.md)
+| Hora  | Lunes    | Martes   | Miercoles | Jueves   | Viernes  |
+|:-----:|:--------:|:--------:|:---------:|:--------:|:--------:|
+| 9:00  | 1027SC4C | 1027SC4C | 1027SC4C  | 1027SC4C | 1027SC4C |
+| 10:00 | -        | -        | -         | -        | -        |
+| 11:00 | 1003SC4C | 1003SC4C | 1003SC4C  | 1003SC4C | 1003SC4C |
+| 12:00 | -        | -        | -         | -        | -        |
+| 1:00  | 1011SC6A | 1011SC6A | 1011SC6A  | 1011SC6A | 1011SC6A |
+| 2:00  | 1025SC5B | 1025SC5B | 1025SC5B  | 1025SC5B |          |
+| 3:00  | 1015SC6B | 1015SC6B | 1015SC6B  | 1015SC6B |          |
+| 4:00  | 1014SC6A | 1014SC6A | 1014SC6A  | 1014SC6A |          |
