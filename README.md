@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 | Hora  | Lunes    | Martes   | Miercoles | Jueves   | Viernes  |
 |:-----:|:--------:|:--------:|:---------:|:--------:|:--------:|
 | 9:00  | 1027SC4C | 1027SC4C | 1027SC4C  | 1027SC4C | 1027SC4C |
