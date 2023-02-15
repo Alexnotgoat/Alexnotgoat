@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Estudiante de la carrera Sistemas Computacionales
+🤔 Estudiante de la carrera Sistemas Computacionales
+⚡ Aprendiendo C++
 
 | Hora  | Lunes    | Martes   | Miercoles | Jueves   | Viernes  |
 |:-----:|:--------:|:--------:|:---------:|:--------:|:--------:|
