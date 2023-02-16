@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 🤔 Estudiante de la carrera Sistemas Computacionales
 ⚡ Aprendiendo C++
 
-![cooltext429754103926115](https://user-images.githubusercontent.com/124217916/219229229-29eb0f24-1ade-4e57-bd90-d745fc6c39e4.png)
+
+![cooltext429754294595229](https://user-images.githubusercontent.com/124217916/219229738-eb07e3b9-2c96-4133-808c-31d08d60e326.gif)
 
 
 | Hora  | Lunes    | Martes   | Miercoles | Jueves   | Viernes  |
