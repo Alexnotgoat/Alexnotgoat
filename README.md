@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 | 2:00  | 1025SC5B | 1025SC5B | 1025SC5B  | 1025SC5B |          |
 | 3:00  | 1015SC6B | 1015SC6B | 1015SC6B  | 1015SC6B |          |
 | 4:00  | 1014SC6A | 1014SC6A | 1014SC6A  | 1014SC6A |          |
+![cooltext73245062838379](https://user-images.githubusercontent.com/124217916/219228590-08605e5a-c220-4004-a0b0-760fda18c4d3.png)
+
