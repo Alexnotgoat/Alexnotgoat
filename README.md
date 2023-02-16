@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 🤔 Estudiante de la carrera Sistemas Computacionales
 ⚡ Aprendiendo C++
 
+![cooltext73245062838379](https://user-images.githubusercontent.com/124217916/219228590-08605e5a-c220-4004-a0b0-760fda18c4d3.png)
+
 | Hora  | Lunes    | Martes   | Miercoles | Jueves   | Viernes  |
 |:-----:|:--------:|:--------:|:---------:|:--------:|:--------:|
 | 9:00  | 1027SC4C | 1027SC4C | 1027SC4C  | 1027SC4C | 1027SC4C |
@@ -27,5 +29,5 @@ Here are some ideas to get you started:
 | 2:00  | 1025SC5B | 1025SC5B | 1025SC5B  | 1025SC5B |          |
 | 3:00  | 1015SC6B | 1015SC6B | 1015SC6B  | 1015SC6B |          |
 | 4:00  | 1014SC6A | 1014SC6A | 1014SC6A  | 1014SC6A |          |
-![cooltext73245062838379](https://user-images.githubusercontent.com/124217916/219228590-08605e5a-c220-4004-a0b0-760fda18c4d3.png)
+
 
